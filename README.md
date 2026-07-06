@@ -104,44 +104,9 @@ Currently, I'm focused on strengthening my problem-solving skills, exploring AI 
 
 </p>
 
----
-
-# AI / Machine Learning Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|----------|
-| Python Development | ⭐⭐⭐⭐☆ | Automation, scripting, backend logic |
-| Machine Learning | ⭐⭐⭐☆☆ | Exploring supervised and unsupervised learning |
-| Artificial Intelligence | ⭐⭐⭐☆☆ | AI applications and intelligent systems |
-| Data Structures | ⭐⭐⭐⭐☆ | Problem solving with Java |
-| Algorithms | ⭐⭐⭐⭐☆ | Competitive programming practice |
-| Software Engineering | ⭐⭐⭐⭐☆ | Clean architecture and scalable applications |
-| Web Development | ⭐⭐⭐⭐☆ | Modern frontend and backend development |
-
----
-
-## Building Software That Creates Real Impact
-
-*"Consistency compounds into excellence."*
-
 </div>
 
 ---
-
-# Experience
-
-Focused on building a strong foundation in Software Engineering, Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Full Stack Development while actively participating in technical events and hands-on software projects.
-
-### Responsibilities
-
-- Designing and developing software applications
-- Solving Data Structures & Algorithms problems
-- Exploring AI & Machine Learning concepts
-- Building responsive web applications
-- Practicing object-oriented programming
-- Learning scalable software architecture
-- Participating in hackathons and technical competitions
-- Collaborating on academic software projects
 
 ### Skills Applied
 
@@ -195,150 +160,11 @@ Focused on building a strong foundation in Software Engineering, Data Structures
 
 ---
 
-### Software Engineering
-
-- Clean Code
-- SOLID Principles
-- Object-Oriented Programming
-- Design Thinking
-- Problem Solving
-- Scalable Architecture
-
-</td>
-
-<td width="50%">
-
-### Professional Growth
-
-- Continuous Learning
-- Collaboration
-- Innovation
-- AI Exploration
-- Open Source
-- Technical Leadership
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Professional Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Software Engineering
-- Backend Systems
-- Cloud Computing
-- Open Source Contributions
-- Product Development
-- System Design
-- Algorithms & Data Structures
-
----
-
 <div align="center">
 
 ## Always Building • Always Learning • Always Improving
 
 *"Great software is built through curiosity, consistency, and continuous improvement."*
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srivigneshk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivigneshk&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Srivigneshk&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivigneshk&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-> **Note:** This animation works after you create the GitHub Action that generates it.
-
-<img src="https://raw.githubusercontent.com/Srivigneshk/Srivigneshk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Data Structures & Algorithms
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - System Design
-
-building:
-  - Vibe Code Dev
-  - AI-powered Applications
-  - Full Stack Projects
-  - Open Source Projects
-
-exploring:
-  - Cloud Computing
-  - DevOps
-  - Backend Engineering
-  - Product Engineering
-  - Modern Java Ecosystem
-
-open_to:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Open Source Collaboration
-  - Hackathons
-  - Research Projects
-```
-
----
-
-# 2026 Goals
-
-- Solve **500+ LeetCode** problems
-- Build **10+ production-ready projects**
-- Contribute to **Open Source**
-- Master **Java Backend Development**
-- Learn **Cloud & DevOps**
-- Strengthen **AI/ML** knowledge
-- Improve **System Design** skills
-
----
-
-## Software Engineer • AI Enthusiast • Full Stack Developer
-
-*"Building software that solves real-world problems with clean architecture, continuous learning, and engineering excellence."*
 
 </div>
 
