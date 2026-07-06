@@ -30,8 +30,6 @@
 
 ![](https://img.shields.io/github/followers/Srivigneshk?style=for-the-badge&logo=github&color=7C3AED)
 
-![](https://img.shields.io/github/stars/Srivigneshk?style=for-the-badge&logo=github&color=9333EA)
-
 </div>
 
 ---
