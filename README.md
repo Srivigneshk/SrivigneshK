@@ -50,7 +50,6 @@ My primary interests lie in:
 - Open Source Development
 
 I enjoy transforming ideas into practical applications while continuously improving my knowledge in algorithms, software architecture, and modern development practices.
-
 Currently, I'm focused on strengthening my problem-solving skills, exploring AI technologies, and building production-quality software projects.
 
 ### Open To
@@ -169,9 +168,3 @@ Currently, I'm focused on strengthening my problem-solving skills, exploring AI 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=140&section=footer"/>
-
-</div>
