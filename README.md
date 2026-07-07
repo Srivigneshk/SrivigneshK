@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Srivignesh&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=56"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F52BA,50:2563EB,100:38BDF8&text=Srivignesh&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=56"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Software+Engineer+in+Progress;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Software+Engineer+in+Progress;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
 
 <br>
 
-![](https://img.shields.io/badge/Sri%20Ramakrishna%20Engineering%20College-2028-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/India-Tamil%20Nadu-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/Sri%20Ramakrishna%20Engineering%20College-2028-2563EB?style=for-the-badge)
+
+![](https://img.shields.io/badge/B.Tech-Computer%20Science-1D4ED8?style=for-the-badge)
+
+![](https://img.shields.io/badge/India-Tamil%20Nadu-3B82F6?style=for-the-badge)
 
 <br>
 
@@ -26,9 +28,8 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=Srivigneshk&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/Srivigneshk?style=for-the-badge&logo=github&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Srivigneshk&style=for-the-badge&color=2563EB)
+![](https://img.shields.io/github/followers/Srivigneshk?style=for-the-badge&logo=github&color=2563EB)
 
 </div>
 
