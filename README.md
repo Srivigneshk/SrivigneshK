@@ -112,21 +112,6 @@ Currently, I'm focused on strengthening my problem-solving skills, exploring AI 
 
 ---
 
-# Technical Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|--------------|---------|
-| 🏆 Smart India Hackathon | Participated in Smart India Hackathon and collaborated on software solution development. |
-| 📘 NPTEL | Successfully completed two NPTEL certification courses. |
-| 💻 Problem Solving | Regularly improving algorithmic thinking through coding practice. |
-| 🚀 Software Development | Developing full-stack and AI-based applications while expanding engineering skills. |
-
-</div>
-
----
-
 # Coding Profiles
 
 <div align="center">
@@ -146,17 +131,6 @@ Currently, I'm focused on strengthening my problem-solving skills, exploring AI 
 </a>
 
 </div>
-
----
-
-## Competitive Programming
-
-| Platform | Status |
-|----------|--------|
-| LeetCode | Active |
-| GitHub | Active |
-
----
 
 <div align="center">
 
