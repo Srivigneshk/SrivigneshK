@@ -51,15 +51,6 @@ My primary interests lie in:
 I enjoy transforming ideas into practical applications while continuously improving my knowledge in algorithms, software architecture, and modern development practices.
 Currently, I'm focused on strengthening my problem-solving skills, exploring AI technologies, and building production-quality software projects.
 
-### Open To
-
-- Software Engineering Internships
-- Open Source Contributions
-- AI/ML Projects
-- Full Stack Development
-- Hackathons
-- Research Collaborations
-
 ---
 
 # Tech Stack
@@ -122,7 +113,7 @@ Currently, I'm focused on strengthening my problem-solving skills, exploring AI 
 
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/Srivigneshk">
 
