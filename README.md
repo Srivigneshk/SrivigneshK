@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Sri%20Ramakrishna%20Engineering%20College-2028-2563EB?style=for-the-badge)
 
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-1D4ED8?style=for-the-badge)
+![](https://img.shields.io/badge/BE-Computer%20Science-1D4ED8?style=for-the-badge)
 
 ![](https://img.shields.io/badge/India-Tamil%20Nadu-3B82F6?style=for-the-badge)
 
